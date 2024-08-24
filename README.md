@@ -10,6 +10,7 @@ Welcome to the Car Finder Application! This console-based application is designe
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [How LINQ is Used](#how-linq-is-used)
+- [Demo](#demo)
 
 ## Project Overview
 
