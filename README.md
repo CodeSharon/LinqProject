@@ -59,6 +59,15 @@ The Car Finder application allows users to search through a collection of car da
 - **Sort data**: The application uses LINQ to sort cars by price, year, or make, depending on the user's input.
 
 ## Demo
-
+### Search by car name
 ![Car Finder Screenshot](assets/search_by_make.png)
+
+### Search by car model
+![Car Finder Screenshot](assets/search_by_model.png)
+
+### Search by car price
+![Car Finder Screenshot](assets/search_by_price.png)
+
+### Search by car year of manufacturing
+![Car Finder Screenshot](assets/search_by_year.png)
 
