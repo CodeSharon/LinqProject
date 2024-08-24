@@ -41,7 +41,7 @@ The Car Finder application allows users to search through a collection of car da
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/CodeSharon/LinqProject.git
-   cd car-finder  ```
+   cd car-finder  
 2. Open the solution: Open the LinqProject.sln file in Visual Studio.
 3. Restore NuGet packages: Visual Studio should automatically restore any missing NuGet packages. If not, right-click on the solution and select "Restore NuGet Packages."
 4. Run the application: Press F5 in Visual Studio to build and run the application.
