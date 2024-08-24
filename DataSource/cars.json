@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 1,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Year": 2020,
+    "Price": 20000.00,
+    "AgeRequirement": 18
+  },
+  {
+    "Id": 2,
+    "Make": "Toyota",
+    "Model": "Camry",
+    "Year": 2021,
+    "Price": 24000.00,
+    "AgeRequirement": 18
+  },
+  {
+    "Id": 3,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Year": 2018,
+    "Price": 15000.00,
+    "AgeRequirement": 18
+  },
+  {
+    "Id": 4,
+    "Make": "Toyota",
+    "Model": "RAV4",
+    "Year": 2022,
+    "Price": 28000.00,
+    "AgeRequirement": 18
+  },
+  {
+    "Id": 5,
+    "Make": "Tesla",
+    "Model": "Model S",
+    "Year": 2021,
+    "Price": 80000.00,
+    "AgeRequirement": 21
+  },
+  {
+    "Id": 6,
+    "Make": "Tesla",
+    "Model": "Model 3",
+    "Year": 2020,
+    "Price": 45000.00,
+    "AgeRequirement": 22
+  },
+  {
+    "Id": 7,
+    "Make": "Tesla",
+    "Model": "Model X",
+    "Year": 2022,
+    "Price": 90000.00,
+    "AgeRequirement": 21
+  },
+  {
+    "Id": 8,
+    "Make": "Ford",
+    "Model": "F-150",
+    "Year": 2019,
+    "Price": 30000.00,
+    "AgeRequirement": 19
+  },
+  {
+    "Id": 9,
+    "Make": "Ford",
+    "Model": "Mustang",
+    "Year": 2021,
+    "Price": 55000.00,
+    "AgeRequirement": 21
+  },
+  {
+    "Id": 10,
+    "Make": "Ford",
+    "Model": "Escape",
+    "Year": 2020,
+    "Price": 25000.00,
+    "AgeRequirement": 18
+  },
+  {
+    "Id": 11,
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2020,
+    "Price": 22000.00,
+    "AgeRequirement": 19
+  },
+  {
+    "Id": 12,
+    "Make": "Honda",
+    "Model": "Accord",
+    "Year": 2021,
+    "Price": 28000.00,
+    "AgeRequirement": 18
+  },
+  {
+    "Id": 13,
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2019,
+    "Price": 18000.00,
+    "AgeRequirement": 18
+  },
+  {
+    "Id": 14,
+    "Make": "Chevrolet",
+    "Model": "Camaro",
+    "Year": 2022,
+    "Price": 45000.00,
+    "AgeRequirement": 21
+  },
+  {
+    "Id": 15,
+    "Make": "Chevrolet",
+    "Model": "Malibu",
+    "Year": 2020,
+    "Price": 24000.00,
+    "AgeRequirement": 18
+  },
+  {
+    "Id": 16,
+    "Make": "Chevrolet",
+    "Model": "Silverado",
+    "Year": 2021,
+    "Price": 40000.00,
+    "AgeRequirement": 18
+  },
+  {
+    "Id": 17,
+    "Make": "BMW",
+    "Model": "3 Series",
+    "Year": 2021,
+    "Price": 41000.00,
+    "AgeRequirement": 21
+  },
+  {
+    "Id": 18,
+    "Make": "BMW",
+    "Model": "X5",
+    "Year": 2020,
+    "Price": 60000.00,
+    "AgeRequirement": 21
+  },
+  {
+    "Id": 19,
+    "Make": "BMW",
+    "Model": "5 Series",
+    "Year": 2022,
+    "Price": 55000.00,
+    "AgeRequirement": 21
+  },
+  {
+    "Id": 20,
+    "Make": "Audi",
+    "Model": "A4",
+    "Year": 2021,
+    "Price": 39000.00,
+    "AgeRequirement": 21
+  },
+  {
+    "Id": 21,
+    "Make": "Audi",
+    "Model": "Q5",
+    "Year": 2022,
+    "Price": 50000.00,
+    "AgeRequirement": 21
+  },
+  {
+    "Id": 22,
+    "Make": "Audi",
+    "Model": "A3",
+    "Year": 2020,
+    "Price": 35000.00,
+    "AgeRequirement": 21
+  },
+  {
+    "Id": 23,
+    "Make": "Mercedes-Benz",
+    "Model": "C-Class",
+    "Year": 2021,
+    "Price": 42000.00,
+    "AgeRequirement": 21
+  },
+  {
+    "Id": 24,
+    "Make": "Mercedes-Benz",
+    "Model": "E-Class",
+    "Year": 2022,
+    "Price": 65000.00,
+    "AgeRequirement": 21
+  },
+  {
+    "Id": 25,
+    "Make": "Mercedes-Benz",
+    "Model": "A-Class",
+    "Year": 2020,
+    "Price": 38000.00,
+    "AgeRequirement": 21
+  }
+]

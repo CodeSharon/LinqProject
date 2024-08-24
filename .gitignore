@@ -1,0 +1,50 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.generated.cs
+
+# Backup & Build artefacts
+*.bak
+*.log
+*.orig
+*.tmp
+*.diff
+*.patch
+*.class
+
+# Visual Studio Code directories and files
+.vscode/
+.vscode/*
+
+# Visual Studio directories and files
+.vs/
+*.psess
+*.vspx
+*.userprefs
+
+# Rider directories
+.idea/
+*.sln.iml
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+# The packages folder can be ignored because of the presence of 'restore' on build
+**/[Pp]ackages/*/lib/
+**/[Pp]ackages/*/src/
+**/[Pp]ackages/*/bin/
+**/[Pp]ackages/*/obj/
+
+packages
+
+# Azure DevOps
+.vsts
