@@ -57,3 +57,8 @@ The Car Finder application allows users to search through a collection of car da
 - **Filter data**: Cars are filtered by age requirements to ensure users only see cars they are eligible to purchase.
 - **Search data**: LINQ is used to search across multiple fields, allowing users to find cars based on various criteria.
 - **Sort data**: The application uses LINQ to sort cars by price, year, or make, depending on the user's input.
+
+## Demo
+
+![Car Finder Screenshot](assets/search_by_make.png)
+
